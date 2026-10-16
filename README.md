@@ -16,7 +16,7 @@ Free desktop **Chrome + Microsoft Edge** extension.
 - Seek through watch-page recommendation previews with current/total time. Preview sound temporarily mutes the main video, then restores its previous audio state on exit.
 - Optionally hide Shorts titles and channel information until you hover over the video.
 
-**[Download & install](https://github.com/orockandgto-glitch/shorts-in-place-preview#installation)** · **[26-second feature animation](https://www.youtube.com/shorts/KyXMzDXuKw8)** · **[Usage guide / 사용법](https://github.com/orockandgto-glitch/shorts-in-place-preview/blob/main/USER-GUIDE.md)**
+**[Download & install](https://github.com/orockandgto-glitch/shorts-in-place-preview#install-manually-on-edge-or-chrome)** · **[26-second feature animation](https://www.youtube.com/shorts/KyXMzDXuKw8)** · **[Usage guide / 사용법](https://github.com/orockandgto-glitch/shorts-in-place-preview/blob/main/USER-GUIDE.md)**
 
 Current release: **v0.5.2**. GitHub ZIP installation requires browser Developer mode and manual updates. The animation uses simulated UI and original sample visuals; it is not a screen recording.
 
