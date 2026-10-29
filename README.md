@@ -16,9 +16,9 @@ Free desktop **Chrome + Microsoft Edge** extension.
 - Seek through watch-page recommendation previews with current/total time. Preview sound temporarily mutes the main video, then restores its previous audio state on exit.
 - Optionally hide Shorts titles and channel information until you hover over the video.
 
-**[Download & install](https://github.com/orockandgto-glitch/shorts-in-place-preview#install-manually-on-edge-or-chrome)** · **[26-second feature animation](https://www.youtube.com/shorts/KyXMzDXuKw8)** · **[Usage guide / 사용법](https://github.com/orockandgto-glitch/shorts-in-place-preview/blob/main/USER-GUIDE.md)**
+**[Download & install](https://github.com/orockandgto-glitch/shorts-in-place-preview#install-from-the-official-stores)** · **[26-second feature animation](https://www.youtube.com/shorts/KyXMzDXuKw8)** · **[Usage guide / 사용법](https://github.com/orockandgto-glitch/shorts-in-place-preview/blob/main/USER-GUIDE.md)**
 
-Current release: **v0.5.2**. GitHub ZIP installation requires browser Developer mode and manual updates. The animation uses simulated UI and original sample visuals; it is not a screen recording.
+**Now available in both official stores (2026-10-29).** [Install on Chrome](https://chromewebstore.google.com/detail/preview-shorts-controls-f/lcmohagmlkmnnpefcnbocfmpnaahpbik) · [Install on Edge](https://microsoftedge.microsoft.com/addons/detail/preview-shorts-controls/ifiankpahnbcolbcfaohlfapbplghgdk). Add the extension and refresh YouTube; no Developer mode or ZIP extraction needed. The optional GitHub ZIP still requires manual updates. The animation uses simulated UI and original sample visuals; it is not a screen recording.
 
 홈 Shorts 전체 미리보기, 미리보기 볼륨 조절, 우측 추천 영상의 재생 위치 이동, Shorts 제목·채널 자동 숨김을 제공합니다. 모든 기능은 무료이며, 설치 방법과 지원 범위를 확인한 후 이용해 주세요.
 
